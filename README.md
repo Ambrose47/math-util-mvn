@@ -6,7 +6,10 @@
 
 * A jar project to demonstrate a Math library
 * A Unit Test source code using JUnit Test Framework
-*...
+* TDD - Test Driven Development, and DDT - Data Driven Testing
+* The Continuous Intergration (CI) script using GitHub Actions
+* Regression testing technique where refactoring code
+* ...
 
 ### Screen-shots
 ![Source-with-JUnit](https://github.com/Ambrose47/math-util-mvn/blob/main/screenshots/Source-code-with-JUnit.png)
